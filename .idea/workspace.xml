@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7d3b2b29-93ca-4582-aca5-245f07837199" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/Models/.ipynb_checkpoints/model-bw_dru-checkpoint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/Models/.ipynb_checkpoints/model_new-checkpoint.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/Models/data_collection_binary.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/Application.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/FoldersCreation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/FoldersCreation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/Models/Model.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/PROJECT PRESENTATION - SIGN LANGUAGE TO TEXT CONVERSION.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/PROJECT REPORT- SIGN LANGUAGE TO TEXT CONVERSION.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/TestingDataCollection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/TrainingDataCollection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/TrainingDataCollection.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/images/algo12Result.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/images/algo1Result.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/images/app.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/images/cnn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/images/components.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/images/fullyConnectedLayer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/images/gesture.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/images/gui.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/images/model_summary.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/images/output.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/images/outputVideo.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/images/outputVideo_gif.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/images/pooling.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/images/roi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/images/signs.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sign-Language-To-Text-Conversion/images/trainingdata.png" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Sign-Language-To-Text-Conversion" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2c5prSe9zmZq60OhKU0QFRSrQnL" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Python.HandTrackingModule.executor&quot;: &quot;Run&quot;,
+    &quot;Python.collect-data.executor&quot;: &quot;Run&quot;,
+    &quot;Python.data_collection_final.executor&quot;: &quot;Run&quot;,
+    &quot;Python.final_pred.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Nithin/Desktop/Sign-Language-To-Text-and-Speech-Conversion/Nithin/Anuvadak-Sign-language-to-text-convertor-main/Anuvadak-Sign-language-to-text-convertor-main/Images&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Nithin\Desktop\Sign-Language-To-Text-and-Speech-Conversion\Nithin\Anuvadak-Sign-language-to-text-convertor-main\Anuvadak-Sign-language-to-text-convertor-main\Images" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Nithin\Desktop\Sign-Language-To-Text-and-Speech-Conversion\Sign-Language-To-Text-Conversion\Models" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.final_pred">
+    <configuration name="HandTrackingModule" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Sign-Language-To-Text-and-Speech-Conversion" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/miniconda3/Lib/site-packages/cvzone" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/miniconda3/Lib/site-packages/cvzone/HandTrackingModule.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="final_pred" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
+      <module name="Sign-Language-To-Text-and-Speech-Conversion" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="SDK_NAME" value="Python 3.11 (2)" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/final_pred.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.final_pred" />
+      <item itemvalue="Python.HandTrackingModule" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.HandTrackingModule" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-09665e90c3a7-d3b881c8e49f-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-233.15026.15" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7d3b2b29-93ca-4582-aca5-245f07837199" name="Changes" comment="" />
+      <created>1707411494240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707411494240</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
